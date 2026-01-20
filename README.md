@@ -2,7 +2,7 @@
 
 Clone command: 
 ```sh
-git clone https://github.com/paolomemoli/pao.nvim/kickstart.nvim.git ~/.config/nvim
+git clone https://github.com/paolomemoli/pao.nvim.git ~/.config/nvim
 ```
 
 
